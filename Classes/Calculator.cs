@@ -1,0 +1,2 @@
+namespace CalculatorCLI;
+class Calculator
